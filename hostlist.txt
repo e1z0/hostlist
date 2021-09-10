@@ -1,0 +1,31 @@
+# china ip camera backdoors
+0.0.0.0 arcsoft.com
+0.0.0.0 xmpp.icloseli.cn
+0.0.0.0 relaycn.arcsoftcloud.com
+0.0.0.0 update.icloseli.cn
+0.0.0.0 esd.icloseli.cn
+0.0.0.0 upns.icloseli.cn
+0.0.0.0 argus.icloseli.cn
+0.0.0.0 relay.icloseli.cn
+0.0.0.0 stun.icloseli.cn
+0.0.0.0 api.icloseli.cn
+0.0.0.0 relayus-w.arcsoftcloud.com
+0.0.0.0 update.icloseli.com
+0.0.0.0 upns.icloseli.com
+0.0.0.0 xmpp.icloseli.com
+0.0.0.0 argus.icloseli.com
+0.0.0.0 relay.icloseli.com
+0.0.0.0 api.icloseli.com
+0.0.0.0 stun.closeli.com
+0.0.0.0 esd.icloseli.com
+0.0.0.0 nvan1.av380.net
+0.0.0.0 av380.net
+0.0.0.0 nvdvr.cn
+0.0.0.0 as114.nvdvr.cn
+0.0.0.0 aipush.av380.net
+0.0.0.0 rapi.av380.net
+0.0.0.0 cixp.web.cern.ch
+
+# LT ads
+0.0.0.0 galt.hit.gemius.pl
+0.0.0.0 keytarget.adnet.lt
