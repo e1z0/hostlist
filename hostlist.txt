@@ -25,6 +25,10 @@
 0.0.0.0 aipush.av380.net
 0.0.0.0 rapi.av380.net
 0.0.0.0 cixp.web.cern.ch
+# tplink cloud
+0.0.0.0 ipcserv.tplinkcloud.com
+0.0.0.0 ipc.tplinkcloud.com
+
 
 # LT ads
 0.0.0.0 galt.hit.gemius.pl
