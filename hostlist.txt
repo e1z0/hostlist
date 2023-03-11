@@ -33,3 +33,52 @@
 # LT ads
 0.0.0.0 galt.hit.gemius.pl
 0.0.0.0 keytarget.adnet.lt
+
+# other known ads
+
+# google ads
+0.0.0.0 afs.googlesyndication.com
+# amazon
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+# Google Analytics
+0.0.0.0 analytics.google.com
+0.0.0.0 click.googleanalytics.com
+# Bugsnag
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+# Sentry
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+# Pinterest
+0.0.0.0 widgets.pinterest.com
+# TikTok
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 ads.tiktok.com
+# Yandex
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 advertising.yandex.ru
+# Yahoo
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+# Realme
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+# Oppo
+0.0.0.0 ck.ads.oppomobile.com
+# Huawei
+0.0.0.0 grs.hicloud.com
+# Apple
+0.0.0.0 advertising.apple.com
+
+
