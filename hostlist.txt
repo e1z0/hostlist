@@ -80,5 +80,14 @@
 0.0.0.0 grs.hicloud.com
 # Apple
 0.0.0.0 advertising.apple.com
+# Sony
+0.0.0.0 *.playstation.com
+0.0.0.0 *.playstation.net
+0.0.0.0 *.playstation.org
+0.0.0.0 scea.com
+0.0.0.0 sonyentertainmentnetwork.com
+0.0.0.0 gs2.sonycoment.loris-e.llnwd.net
+0.0.0.0 sonygst.s.llnwi.net
+0.0.0.0 gs2.ww.prod.dl.playstation.net.edgesuite.net
 
 
